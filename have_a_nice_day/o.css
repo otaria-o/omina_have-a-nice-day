@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    position: relative;
+}
+
+#omina {
+    border: solid 4px black;
+}
+
+#ominina {
+    border: solid 4px black;
+} 
+
+p {
+    font-size: 42pt;
+    font-style: bold;
+    font-family: courier;
+}
+
+#istruzioni {
+    font-family: courier;
+    font-size: 18pt;
+    text-align: right;
+    top: 300px;
+    left: 700px;
+    position: absolute;
+}
